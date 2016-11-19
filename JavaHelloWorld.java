@@ -7,5 +7,6 @@ public class JavaHelloWorld
 		System.out.println("Hello Ragi.. u automated build");
 		System.out.println("trigger auto build by url");
 		System.out.println("DeepaSujatha hatr pa");
+		System.out.println("Happy birthday Dhanya Man!");
 	}
 }
