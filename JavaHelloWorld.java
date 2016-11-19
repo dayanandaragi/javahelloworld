@@ -6,5 +6,6 @@ public class JavaHelloWorld
 		System.out.println("Hello Again");
 		System.out.println("Hello Ragi.. u automated build");
 		System.out.println("trigger auto build by url");
+		System.out.println("After autobuild permission");
 	}
 }
