@@ -4,9 +4,6 @@ public class JavaHelloWorld
 	{
 		System.out.println("Java Hello World!");
 		System.out.println("Hello Again");
-		System.out.println("Hello Ragi.. u automated build");
-		System.out.println("trigger auto build by url");
-		System.out.println("DeepaSujatha hatr pa");
-		System.out.println("Happy birthday Dhanya Man!");
+		System.out.println("Hello Ragi.. You have automated the build from Github to Dockerhub");
 	}
 }
